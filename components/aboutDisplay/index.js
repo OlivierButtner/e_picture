@@ -1,0 +1,1 @@
+export { DisplayPicture } from './DisplayPicture';
